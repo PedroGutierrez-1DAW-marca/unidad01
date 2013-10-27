@@ -6,7 +6,7 @@
 
 
 1. Qué es un lenguaje de marca
-2. Características, bentajas e inconveenientes
+2. Características, ventajas e inconveenientes
 3. Clasificación de los tipos de lenguajes de marca
 
 ##Qué es un lenguaje de marca
